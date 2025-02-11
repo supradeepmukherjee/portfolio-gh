@@ -14,7 +14,7 @@ const Projects = () => (
           <PinContainer title={p.url} href={p.url}>
             <div className="relative flex items-center justify-center sm:w-[567px] w-[80vw] overflow-hidden sm:h-[40vh] h-[30vh] mb-10">
               <div className="relative h-full w-full overflow-hidden lg:rounded-3xl bg-[#13172d]">
-                <img src="/bg.png" alt="bg-img" />
+                <img src="./bg.png" alt="bg-img" />
               </div>
               <img src={p.img} alt={p.title} className='z-10 absolute bottom-0' />
             </div>

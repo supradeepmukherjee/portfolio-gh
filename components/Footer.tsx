@@ -5,22 +5,22 @@ import { RiSendPlaneFill } from "react-icons/ri";
 const profiles = [
   {
     url:'https://github.com/supradeepmukherjee',
-    img: "/git.svg",
+    img: "./git.svg",
   },
   {
     url:'https://x.com/supradeep2004',
-    img: "/twit.svg",
+    img: "./twit.svg",
   },
   {
     url:'https://www.linkedin.com/in/supradeep-mukherjee',
-    img: "/link.svg",
+    img: "./link.svg",
   },
 ];
 
 const Footer = () => (
   <footer className="w-full pt-20 pb-10" id="contact">
     <div className="w-full absolute left-0 -bottom-72 min-h-96">
-      <img src="/footer-grid.svg" alt="grid" className="w-full h-full opacity-50" />
+      <img src="./footer-grid.svg" alt="grid" className="w-full h-full opacity-50" />
     </div>
     <div className="flex flex-col items-center">
       <h1 className="heading lg:max-w-[45vw]">

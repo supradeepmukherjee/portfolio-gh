@@ -5,7 +5,7 @@ const items = [
         className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
         imgClass: "w-full h-full",
         titleClass: "justify-end",
-        img: "/b1.svg",
+        img: "./b1.svg",
         extraImg: "",
     },
     {
@@ -32,8 +32,8 @@ const items = [
         className: "lg:col-span-2 md:col-span-3 md:row-span-1",
         imgClass: "",
         titleClass: "justify-start",
-        img: "/grid.svg",
-        extraImg: "/b4.svg",
+        img: "./grid.svg",
+        extraImg: "./b4.svg",
     },
     {
         title: "Currently building an Event Management System",
@@ -41,8 +41,8 @@ const items = [
         className: "md:col-span-3 md:row-span-2",
         imgClass: "absolute right-0 bottom-0 md:w-96 w-60",
         titleClass: "justify-center md:justify-start lg:justify-center",
-        img: "/b5.svg",
-        extraImg: "/grid.svg",
+        img: "./b5.svg",
+        extraImg: "./grid.svg",
     },
     {
         title: "Do you want to start a project together?",

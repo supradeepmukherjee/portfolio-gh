@@ -1,28 +1,28 @@
 const items = [
     {
         name: "cloudinary",
-        logo: "/cloud.svg",
-        nameImg: "/cloudName.svg",
+        logo: "./cloud.svg",
+        nameImg: "./cloudName.svg",
     },
     {
         name: "appwrite",
-        logo: "/app.svg",
-        nameImg: "/appName.svg",
+        logo: "./app.svg",
+        nameImg: "./appName.svg",
     },
     {
         name: "HOSTINGER",
-        logo: "/host.svg",
-        nameImg: "/hostName.svg",
+        logo: "./host.svg",
+        nameImg: "./hostName.svg",
     },
     {
         name: "stream",
-        logo: "/s.svg",
-        nameImg: "/streamName.svg",
+        logo: "./s.svg",
+        nameImg: "./streamName.svg",
     },
     {
         name: "docker.",
-        logo: "/dock.svg",
-        nameImg: "/dockerName.svg",
+        logo: "./dock.svg",
+        nameImg: "./dockerName.svg",
     }
 ]
 
